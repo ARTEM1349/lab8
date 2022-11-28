@@ -1,5 +1,22 @@
 #include <stdio.h>
 
+int lab05(a)
+{
+     int i;
+     
+     for (i = 1; a>0 ; a--) 
+     {
+     printf ("%d-",a);
+       i= i*a;
+       printf ("%d\n",i);
+   } 
+   printf ("\n");
+    return 0;
+}
+
+
+
+
 
 int lab06(long int b[], int s) 
 {
@@ -24,16 +41,4 @@ int lab06(long int b[], int s)
     return 0;
 }
 
-int lab05(a)
-{
-     int i;
-     
-     for (i = 1; a>0 ; a--) 
-     {
-     printf ("%d-",a);
-       i= i*a;
-       printf ("%d\n",i);
-   } 
-   printf ("\n");
-    return 0;
-}
+
