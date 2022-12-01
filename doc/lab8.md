@@ -30,7 +30,7 @@
 
  Опис логічної  структури
  **************************
- ![](https://github.com/ARTEM1349/lab8/blob/main/doc/assets/графічна%20структура%20.jpg) (мал. 1) структура програми
+ ![](https://github.com/ARTEM1349/lab8/blob/main/doc/assets/структура%20проекту.png) (мал. 1) структура програми
   
   
   Вміст файлу "main.c"
@@ -110,7 +110,7 @@ int lab05(h)
 
 (мал.3) Схема алгоритму функції lab05*******
 
-![](https://github.com/ARTEM1349/lab8/blob/main/doc/assets/Схема%20алгоритму%20функції%20lab05.png)
+![](https://github.com/ARTEM1349/lab8/blob/main/doc/assets/lab5.png)
 
 int lab06(long int b[], int s) 
 
@@ -139,7 +139,7 @@ c- Змінна для виводу даних
 •	            }
 (мал. 4) Схема алгоритму функції lab06*****
 
-![](https://github.com/ARTEM1349/lab8/blob/main/doc/assets/Схема%20алгоритму%20функції%20lab06.png)
+![](https://github.com/ARTEM1349/lab8/blob/main/doc/assets/lab06.png)
 
 Вміст файлу "lib.c"
 
